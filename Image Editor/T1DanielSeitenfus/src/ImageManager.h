@@ -64,6 +64,7 @@ public:
                         images[i]->toggleSelected();
                         selectedImageIndex = i;
                         draggingImage = true;
+                        setRenderPriority(i);
                     } else if(i == selectedImageIndex) {
                         images[i]->toggleSelected();
                         selectedImageIndex = NO_IMAGE_SELECTED;
@@ -72,6 +73,7 @@ public:
                         images[i]->toggleSelected();
                         selectedImageIndex = i;
                         draggingImage = true;
+                        setRenderPriority(i);
                     }
                 }
             }
@@ -80,6 +82,12 @@ public:
         }
 
         updateSelectedImagePosition(mx , my);
+    }
+
+    void setRenderPriority(int index) {
+        Image *image = images[index];
+        images.erase(images.begin() + index);
+        images.push_back(image);
     }
 
 };
