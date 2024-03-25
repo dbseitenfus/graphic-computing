@@ -26,6 +26,7 @@
 #include "Image.h"
 #include "ImageManager.h"
 #include "ImagePanel.h"
+#include "ImageSelectedSection.h"
 
 using namespace std;
 
@@ -33,15 +34,18 @@ using namespace std;
 int screenWidth = 1000, screenHeight = 600;
 
 ImagePanel *imagePanel;
+ImageSelectedSection *imageSelectedSection;
 
 int mouseX, mouseY;
 
-int imagePanelX=350, imagePanelY=50, imagePanelHeight=600, imagePanelWidth=650;
+int imagePanelX=350, imagePanelY=40, imagePanelHeight=600, imagePanelWidth=650;
 
 
 void render() {
     imagePanel->render();
-    Sleep(10);
+    imageSelectedSection->setImageSelected(imagePanel->getSelectedImage()); //TODO: Otimizar
+    imageSelectedSection->render();
+    //Sleep(10);
 }
 
 //funcao chamada toda vez que uma tecla for pressionada.
@@ -71,6 +75,8 @@ int main(void) {
    imagePanel->addImage(".//T1DanielSeitenfus//images//img1.bmp");
    imagePanel->addImage(".//T1DanielSeitenfus//images//img1.bmp");
    imagePanel->convertBGRtoRGB();
+cout << "Cheguei";
+   imageSelectedSection = new ImageSelectedSection(20, 40, 300, 550, imagePanel->getSelectedImage());
 
    CV::init(screenWidth, screenHeight, "Trabalho 1");
    CV::run();

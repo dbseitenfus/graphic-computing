@@ -90,6 +90,14 @@ public:
         images.push_back(image);
     }
 
+    Image* getSelectedImage() {
+        if(!hasImageSelected()) {
+            return NULL;
+        }
+
+        return images[selectedImageIndex];
+    }
+
 };
 
 
