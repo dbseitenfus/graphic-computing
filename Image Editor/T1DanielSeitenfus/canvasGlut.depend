@@ -276,3 +276,68 @@
 	"Bmp.h"
 	"Image.h"
 
+1711224735 source:c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1711224072 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1710341420 source:c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1710341387 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\daniel\documents\github\graphic-computing\image editor\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\daniel\documents\github\graphic-computing\image editor\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\daniel\documents\github\graphic-computing\image editor\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\vector2.h
+
+1711340506 source:c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"gl_canvas2d.h"
+	"Bmp.h"
+	"Image.h"
+	"ImageManager.h"
+	"ImagePanel.h"
+
+1711244564 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\image.h
+	"Bmp.h"
+
+1711251162 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imagemanager.h
+	<vector>
+
+1711339505 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imagepanel.h
+	"gl_canvas2d.h"
+	"ImageManager.h"
+	"Bmp.h"
+	"Image.h"
+

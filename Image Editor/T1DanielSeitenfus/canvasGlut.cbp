@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="bmpExample" />
+		<Option title="T1DanielSeitenfus" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -42,10 +42,14 @@
 			<Add library="../lib/libglu32.a" />
 		</Linker>
 		<Unit filename="src/Bmp.h" />
+		<Unit filename="src/Botao.h" />
 		<Unit filename="src/Image.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="src/ImageManager.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="src/ImagePanel.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="src/Relogio.cpp" />
