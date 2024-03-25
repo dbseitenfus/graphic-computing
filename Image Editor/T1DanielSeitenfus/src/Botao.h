@@ -8,8 +8,7 @@ class Botao{
   char label[100];
 
 public:
-  Botao(float _x, float _y, float _larg, float _alt, char *_label)
-  {
+  Botao(float _x, float _y, float _larg, float _alt, char *_label) {
      altura  = _alt;
      largura = _larg;
      x = _x;
@@ -17,8 +16,7 @@ public:
      strcpy(label, _label);
   }
 
-  void Render()
-  {
+  void Render() {
       CV::color(0, 1, 0);
       CV::rectFill(x, y, x + largura, y + altura);
       CV::color(0, 0, 0);
@@ -26,13 +24,8 @@ public:
   }
 
   //recebe as coordenadas do mouse para tratar clique ou detectar quando o mouse esta em cima do botao
-  bool Colidiu(int mx, int my)
-  {
-      if( mx >= x && mx <= (x + largura) && my >= y && my <= (y + altura) )
-      {
-          return true;
-      }
-      return false;
+  bool Colidiu(int mx, int my) {
+      return mx >= x && mx <= (x + largura) && my >= y && my <= (y + altura);
   }
 
 };
