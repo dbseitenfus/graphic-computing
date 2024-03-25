@@ -316,7 +316,7 @@
 
 1589217858 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\vector2.h
 
-1711340506 source:c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\main.cpp
+1711340877 source:c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\main.cpp
 	<GL/glut.h>
 	<GL/freeglut_ext.h>
 	<math.h>
@@ -332,7 +332,7 @@
 1711244564 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\image.h
 	"Bmp.h"
 
-1711251162 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imagemanager.h
+1711342257 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imagemanager.h
 	<vector>
 
 1711339505 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imagepanel.h

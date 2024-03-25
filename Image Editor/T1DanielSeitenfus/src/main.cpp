@@ -67,7 +67,8 @@ int main(void) {
 
    imagePanel = new ImagePanel(imagePanelX,imagePanelY,imagePanelX+imagePanelWidth,imagePanelY+imagePanelHeight);
    imagePanel->addImage(".//T1DanielSeitenfus//images//img3.bmp");
-   imagePanel->addImage(".//T1DanielSeitenfus//images//img2.bmp");
+   //imagePanel->addImage(".//T1DanielSeitenfus//images//img2.bmp");
+   imagePanel->addImage(".//T1DanielSeitenfus//images//img1.bmp");
    imagePanel->addImage(".//T1DanielSeitenfus//images//img1.bmp");
    imagePanel->convertBGRtoRGB();
 
