@@ -1,0 +1,450 @@
+# depslib dependency file v1.0
+1710341357 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1632060799 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1710341387 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1589217858 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\vector2.h
+
+1589214882 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1705326017 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1589218349 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1710341420 source:c:\users\daniel\documents\cg\demos\1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1710341387 c:\users\daniel\documents\cg\demos\1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\daniel\documents\cg\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\daniel\documents\cg\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\daniel\documents\cg\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\daniel\documents\cg\demos\1_canvasglut\src\vector2.h
+
+1589218349 source:c:\users\daniel\documents\cg\demos\1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\daniel\documents\cg\demos\1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1710988215 source:c:\users\daniel\documents\cg\demos\1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+	"Bmp.h"
+
+1589214882 c:\users\daniel\documents\cg\demos\1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\daniel\documents\cg\demos\1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1650887927 source:c:\users\daniel\documents\cg\demos\1_canvasglut\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1531759698 c:\users\daniel\documents\cg\demos\1_canvasglut\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1711224735 source:c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1711224072 c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1710341420 source:c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1710341387 c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\daniel\documents\cg\demos\daniel\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\daniel\documents\cg\demos\daniel\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\daniel\documents\cg\demos\daniel\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\vector2.h
+
+1711227434 source:c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+	"Bmp.h"
+	"Image.h"
+
+1589214882 c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1711236438 c:\users\daniel\documents\cg\demos\daniel\1_bmp\src\image.h
+	"Bmp.h"
+
+1711224735 source:c:\users\daniel\documents\cg\demos\daniel\1_empty_project\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1711224072 c:\users\daniel\documents\cg\demos\daniel\1_empty_project\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1710341420 source:c:\users\daniel\documents\cg\demos\daniel\1_empty_project\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1710341387 c:\users\daniel\documents\cg\demos\daniel\1_empty_project\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1589217858 c:\users\daniel\documents\cg\demos\daniel\1_empty_project\src\vector2.h
+
+1589218349 source:c:\users\daniel\documents\cg\demos\daniel\1_empty_project\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\daniel\documents\cg\demos\daniel\1_empty_project\src\relogio.h
+	"gl_canvas2d.h"
+
+1712620677 source:c:\users\daniel\documents\github\bounce-balls-cg\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+	<iostream>
+
+1712620476 c:\users\daniel\documents\github\bounce-balls-cg\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1714791278 source:c:\users\daniel\documents\github\bounce-balls-cg\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1714791313 c:\users\daniel\documents\github\bounce-balls-cg\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\daniel\documents\github\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\daniel\documents\github\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\daniel\documents\github\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1716852823 c:\users\daniel\documents\github\bounce-balls-cg\src\vector2.h
+	<cmath>
+	<cstdio>
+
+1589218349 source:c:\users\daniel\documents\github\bounce-balls-cg\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\daniel\documents\github\bounce-balls-cg\src\relogio.h
+	"gl_canvas2d.h"
+
+1716859392 source:c:\users\daniel\documents\github\bounce-balls-cg\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"GameRunner.h"
+	"Vector2.h"
+	"ScreenManager.h"
+	"HomeScreen.h"
+	"GameOverScreen.h"
+	"Frames.h"
+	<string>
+	<iostream>
+
+1716858566 c:\users\daniel\documents\github\bounce-balls-cg\src\square.h
+	"Color.h"
+	"Vector2.h"
+	"Line.h"
+	"Collider.h"
+	"Text.h"
+	<string>
+	<iostream>
+
+1716055248 c:\users\daniel\documents\github\bounce-balls-cg\src\color.h
+
+1716860496 c:\users\daniel\documents\github\bounce-balls-cg\src\ball.h
+	"Frames.h"
+	<iostream>
+	<chrono>
+
+1716860707 c:\users\daniel\documents\github\bounce-balls-cg\src\cannon.h
+	"Color.h"
+	"Vector2.h"
+	"Square.h"
+	"CollisionDetector.h"
+	"Line.h"
+	"Collider.h"
+	<vector>
+	<iostream>
+
+1186514978 c:\users\daniel\documents\github\bounce-balls-cg\src\vector.h
+
+1716857678 c:\users\daniel\documents\github\bounce-balls-cg\src\line.h
+	<vector>
+	"Collider.h"
+
+1193917132 c:\users\daniel\documents\github\bounce-balls-cg\src\circle.h
+
+1186515012 source:c:\users\daniel\documents\github\bounce-balls-cg\src\vector.cpp
+	"Vector.h"
+	<math.h>
+	<stdio.h>
+
+1716858683 c:\users\daniel\documents\github\bounce-balls-cg\src\screenmanager.h
+
+1716859887 c:\users\daniel\documents\github\bounce-balls-cg\src\homescreen.h
+	"ButtonManager.h"
+	"ScreenManager.h"
+	"Image.h"
+	"Ball.h"
+	<vector>
+
+1714787841 c:\users\daniel\documents\github\bounce-balls-cg\src\buttonmanager.h
+	<vector>
+	<functional>
+	"Button.h"
+	"Color.h"
+
+1714787635 c:\users\daniel\documents\github\bounce-balls-cg\src\button.h
+	"gl_canvas2d.h"
+	"Color.h"
+	"Math.h"
+	"Text.h"
+	"Image.h"
+
+1712615578 c:\users\daniel\documents\github\bounce-balls-cg\src\math.h
+	<math.h>
+
+1715017995 c:\users\daniel\documents\github\bounce-balls-cg\src\text.h
+	"Color.h"
+	"gl_canvas2d.h"
+	<string>
+
+1712618500 c:\users\daniel\documents\github\bounce-balls-cg\src\image.h
+	"Bmp.h"
+
+1716855750 c:\users\daniel\documents\github\bounce-balls-cg\src\collisiondetector.h
+	"Vector2.h"
+	"Ball.h"
+	"Line.h"
+
+1714907229 c:\users\daniel\documents\github\bounce-balls-cg\src\collidable.h
+	"Ball.h"
+	"Vector2.h"
+
+1716859250 c:\users\daniel\documents\github\bounce-balls-cg\src\gamerunner.h
+	"Cannon.h"
+	"Ball.h"
+	"Collider.h"
+	"Vector2.h"
+	"Square.h"
+	"Level.h"
+	"ScreenManager.h"
+	"ExplosionAnimation.h"
+	<vector>
+	<iostream>
+
+1716855626 c:\users\daniel\documents\github\bounce-balls-cg\src\collider.h
+	"Ball.h"
+	"Vector2.h"
+
+1715540945 c:\users\daniel\documents\github\bounce-balls-cg\src\phase.h
+	<vector>
+	"Collider.h"
+
+1715024219 c:\users\daniel\documents\github\bounce-balls-cg\src\gameoverscreen.h
+
+1716853819 c:\users\daniel\documents\github\bounce-balls-cg\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1716859881 c:\users\daniel\documents\github\bounce-balls-cg\src\explosionanimation.h
+	<vector>
+	"Ball.h"
+	"Vector2.h"
+
+1716862276 c:\users\daniel\documents\github\bounce-balls-cg\src\level.h
+	<vector>
+	"Collider.h"
+
+1714791278 source:c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1714791313 c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\daniel\documents\github\graphic-computing\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\daniel\documents\github\graphic-computing\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\daniel\documents\github\graphic-computing\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1716852823 c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\vector2.h
+	<cmath>
+	<cstdio>
+
+1717950872 source:c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+
