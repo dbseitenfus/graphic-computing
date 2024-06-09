@@ -42,7 +42,10 @@
 			<Add library="../lib/libglu32.a" />
 		</Linker>
 		<Unit filename="src/Bmp.h" />
-		<Unit filename="src/Botao.h" />
+		<Unit filename="src/Button.h" />
+		<Unit filename="src/ButtonManager.h" />
+		<Unit filename="src/Color.h" />
+		<Unit filename="src/Histogram.h" />
 		<Unit filename="src/Image.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
@@ -52,7 +55,19 @@
 		<Unit filename="src/ImagePanel.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="src/Relogio.cpp" />
+		<Unit filename="src/ImageSelectedSection.h" />
+		<Unit filename="src/Math.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="src/Panel.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="src/Slider.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="src/Text.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="src/Vector2.h" />
 		<Unit filename="src/bmp.cpp" />
 		<Unit filename="src/gl_canvas2d.cpp" />

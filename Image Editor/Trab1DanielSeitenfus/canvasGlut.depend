@@ -276,11 +276,12 @@
 	"Bmp.h"
 	"Image.h"
 
-1711224735 source:c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\bmp.cpp
+1712615829 source:c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\bmp.cpp
 	"Bmp.h"
 	<string.h>
+	<iostream>
 
-1711224072 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\bmp.h
+1712191633 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\bmp.h
 	<stdio.h>
 	<stdlib.h>
 
@@ -316,28 +317,161 @@
 
 1589217858 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\vector2.h
 
-1711340877 source:c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\main.cpp
+1712617864 source:c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\main.cpp
 	<GL/glut.h>
 	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"ImagePanel.h"
+	"ImageSelectedSection.h"
+
+1712618500 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\image.h
+	"Bmp.h"
+
+1712610692 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imagemanager.h
+	<vector>
+	"Panel.h"
+	"Image.h"
+
+1712619969 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imagepanel.h
+	"gl_canvas2d.h"
+	"ImageManager.h"
+	"Bmp.h"
+	"Image.h"
+	"Math.h"
+	"ButtonManager.h"
+	<functional>
+
+1711350576 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imageselectedview.h
+	"gl_canvas2d.h"
+	"Image.h"
+
+1712612695 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imageselectedsection.h
+	"gl_canvas2d.h"
+	"Image.h"
+	"ButtonManager.h"
+	"Histogram.h"
+	"Slider.h"
+	"Text.h"
+
+1712612356 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\buttonmanager.h
+	<vector>
+	<functional>
+	"Button.h"
+	"Color.h"
+
+1711357085 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\botao.h
+	"gl_canvas2d.h"
+	<functional>
+
+1712615468 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\button.h
+	"gl_canvas2d.h"
+	"Color.h"
+	"Math.h"
+	"Text.h"
+
+1712616682 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\color.h
+
+1712617539 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\histogram.h
+	<vector>
+	"gl_canvas2d.h"
+	"Bmp.h"
+
+1712613268 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\slider.h
+	"Math.h"
+
+1712615600 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\panel.h
+
+1712615578 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\math.h
 	<math.h>
+
+1712615534 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\text.h
+	"Color.h"
+	"gl_canvas2d.h"
+
+1712620677 source:c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+	<iostream>
+
+1712620476 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\bmp.h
 	<stdio.h>
 	<stdlib.h>
-	<iostream>
+
+1710341420 source:c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\gl_canvas2d.cpp
 	"gl_canvas2d.h"
-	"Bmp.h"
-	"Image.h"
-	"ImageManager.h"
+	<GL/glut.h>
+
+1710341387 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1589217858 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\vector2.h
+
+1712620513 source:c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
 	"ImagePanel.h"
+	"ImageSelectedSection.h"
 
-1711244564 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\image.h
-	"Bmp.h"
-
-1711342257 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imagemanager.h
-	<vector>
-
-1711339505 c:\users\daniel\documents\github\graphic-computing\image editor\t1danielseitenfus\src\imagepanel.h
+1712620191 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\imagepanel.h
 	"gl_canvas2d.h"
 	"ImageManager.h"
 	"Bmp.h"
 	"Image.h"
+	"Math.h"
+	"ButtonManager.h"
+	<functional>
+
+1712610692 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\imagemanager.h
+	<vector>
+	"Panel.h"
+	"Image.h"
+
+1712615600 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\panel.h
+
+1712618500 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\image.h
+	"Bmp.h"
+
+1712615578 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\math.h
+	<math.h>
+
+1712612356 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\buttonmanager.h
+	<vector>
+	<functional>
+	"Button.h"
+	"Color.h"
+
+1712615468 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\button.h
+	"gl_canvas2d.h"
+	"Color.h"
+	"Math.h"
+	"Text.h"
+
+1712616682 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\color.h
+
+1712615534 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\text.h
+	"Color.h"
+	"gl_canvas2d.h"
+
+1712612695 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\imageselectedsection.h
+	"gl_canvas2d.h"
+	"Image.h"
+	"ButtonManager.h"
+	"Histogram.h"
+	"Slider.h"
+	"Text.h"
+
+1712617539 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\histogram.h
+	<vector>
+	"gl_canvas2d.h"
+	"Bmp.h"
+
+1712613268 c:\users\daniel\documents\github\graphic-computing\image editor\trab1danielseitenfus\src\slider.h
+	"Math.h"
 
