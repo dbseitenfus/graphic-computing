@@ -443,8 +443,25 @@
 	<cmath>
 	<cstdio>
 
-1717950872 source:c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\main.cpp
+1717965783 source:c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\main.cpp
 	<GL/glut.h>
 	<GL/freeglut_ext.h>
 	"gl_canvas2d.h"
+	"Vector2.h"
+	"Pointer.h"
+	"Circle.h"
+	"Spiral.h"
+	"RotaryHacksaw.h"
+	<vector>
+
+1717953437 c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\pointer.h
+	"Vector2.h"
+
+1717954451 c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\circle.h
+
+1717956722 c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\spiral.h
+	"Vector2.h"
+
+1717957830 c:\users\daniel\documents\github\graphic-computing\polar coordinates\src\rotaryhacksaw.h
+	"Vector2.h"
 
